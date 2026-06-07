@@ -1,0 +1,76 @@
+#Weather Forecast App
+
+A modern and responsive Weather Forecast Application developed using HTML, CSS, and JavaScript. This project fetches real-time weather data from a weather API and presents it through a clean, interactive, and user-friendly interface.
+
+The application allows users to view current weather conditions, temperature, humidity, wind information, and forecast details in a visually appealing dashboard.
+
+## 🚀 Features
+
+* Real-Time Weather Updates
+* Current Temperature Display
+* Weather Condition Information
+* Humidity and Wind Speed Details
+* Multi-Day Weather Forecast
+* Dynamic Weather Icons
+* Responsive Design for Mobile and Desktop
+* Smooth UI Animations
+* Clean and Modern User Interface
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Weather API
+* Font Awesome
+* Google Fonts
+
+## 📌 Project Overview
+
+This project demonstrates how external APIs can be integrated into frontend applications to display live data. The application retrieves weather information from a weather service and dynamically updates the interface based on the received data.
+
+The primary goal of this project was to improve frontend development skills while gaining hands-on experience with API integration, asynchronous JavaScript, and responsive web design.
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* API Integration
+* Fetching and Processing JSON Data
+* JavaScript DOM Manipulation
+* Responsive Web Design
+* CSS Layouts and Animations
+* Error Handling in API Requests
+* Building Interactive User Interfaces
+
+## 📷 Application Sections
+
+* Current Weather Information
+* Weather Status Display
+* Temperature Overview
+* Humidity & Wind Details
+* Forecast Cards
+* Responsive Navigation
+
+## 🔮 Future Improvements
+
+* City Search Functionality
+* Geolocation Support
+* Dark Mode
+* Hourly Forecast
+* Weather Alerts
+* Multiple City Tracking
+
+## 👩‍💻 Author
+
+**Akanksha Mishra**
+
+Frontend Developer passionate about building responsive, interactive, and user-friendly web applications while continuously learning modern web technologies.
+
+## 📬 Contact
+
+Feel free to connect with me for collaboration, learning opportunities, or frontend development projects.
+
+GitHub: https://github.com/your-username
+
+LinkedIn: Add Your LinkedIn Profile Here
